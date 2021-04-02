@@ -1,0 +1,9 @@
+Biblioteka BGI.LIB
+    zawiera drajwery BGI v2.0 w postaci object'owej:
+
+object            nazwa funkcji  
+
+CGAF.OBJ     -    _Cga_driver_far()
+HERCF.OBJ    -    _Herc_driver_far() 
+EGAVGAF.OBJ  -    _EGAVGA_driver_far()
+

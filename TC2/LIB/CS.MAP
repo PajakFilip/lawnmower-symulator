@@ -1,0 +1,20 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00314H 00315H _TEXT              CODE
+ 00320H 0049BH 0017CH _DATA              DATA
+ 0049CH 0049FH 00004H _EMUSEG            DATA
+ 004A0H 004A1H 00002H _CRTSEG            DATA
+ 004A2H 004A2H 00000H _CVTSEG            DATA
+ 004A2H 004A2H 00000H _SCNSEG            DATA
+ 004A2H 004A5H 00004H _BSS               BSS
+ 004A6H 004A6H 00000H _BSSEND            STACK
+
+Undefined symbol '__STKLEN' in module C0T
+Undefined symbol '__HEAPLEN' in module C0T
+Undefined symbol '__SETARGV' in module C0T
+Undefined symbol '__SETENVP' in module C0T
+Undefined symbol '_EXIT' in module C0T
+Undefined symbol '_KEEP' in module MANAGER.C
+Undefined symbol '_SETVECT' in module MANAGER.C
+
